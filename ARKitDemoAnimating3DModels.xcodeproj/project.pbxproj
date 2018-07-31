@@ -12,7 +12,6 @@
 		170EB8B9211055A2001E175E /* ore.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B4211055A1001E175E /* ore.mtl */; };
 		170EB8BA211055A2001E175E /* ORE__vcols.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B5211055A1001E175E /* ORE__vcols.png */; };
 		170EB8BB211055A2001E175E /* defaultMat_Normal_DirectX.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8B6211055A2001E175E /* defaultMat_Normal_DirectX.png */; };
-		170EB8E1211098D1001E175E /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 170EB8E0211098D0001E175E /* screen.png */; };
 		1762A483210F3DF50073BC84 /* palm.png in Resources */ = {isa = PBXBuildFile; fileRef = 1762A480210F3DF40073BC84 /* palm.png */; };
 		1762A485210F3DF50073BC84 /* palm.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1762A482210F3DF50073BC84 /* palm.obj */; };
 		638A9CEE1FBA0605001D52ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638A9CED1FBA0605001D52ED /* AppDelegate.swift */; };
@@ -30,7 +29,6 @@
 		170EB8B4211055A1001E175E /* ore.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ore.mtl; path = "../../../../Downloads/stone-ore-free/source/ore/ore.mtl"; sourceTree = "<group>"; };
 		170EB8B5211055A1001E175E /* ORE__vcols.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ORE__vcols.png; path = "../../../../Downloads/stone-ore-free/source/ore/ORE__vcols.png"; sourceTree = "<group>"; };
 		170EB8B6211055A2001E175E /* defaultMat_Normal_DirectX.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = defaultMat_Normal_DirectX.png; path = "../../../../Downloads/stone-ore-free/source/ore/defaultMat_Normal_DirectX.png"; sourceTree = "<group>"; };
-		170EB8E0211098D0001E175E /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screen.png; path = ../../Desktop/screen.png; sourceTree = "<group>"; };
 		1762A480210F3DF40073BC84 /* palm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palm.png; sourceTree = "<group>"; };
 		1762A482210F3DF50073BC84 /* palm.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = palm.obj; sourceTree = "<group>"; };
 		1762A488210F53010073BC84 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 		638A9CE11FBA0604001D52ED = {
 			isa = PBXGroup;
 			children = (
-				170EB8E0211098D0001E175E /* screen.png */,
 				1762A488210F53010073BC84 /* README.md */,
 				638A9CEC1FBA0605001D52ED /* ARKitDemoAnimating3DModels */,
 				638A9CEB1FBA0605001D52ED /* Products */,
@@ -163,7 +160,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				170EB8E1211098D1001E175E /* screen.png in Resources */,
 				638A9CF81FBA0605001D52ED /* LaunchScreen.storyboard in Resources */,
 				638A9D031FBA065D001D52ED /* ship.png in Resources */,
 				638A9CF51FBA0605001D52ED /* Assets.xcassets in Resources */,
